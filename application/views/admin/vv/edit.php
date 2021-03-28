@@ -1,0 +1,92 @@
+    <div class="container top">
+	      <ul class="breadcrumb">
+	        <li>
+	          <a href="<?php echo site_url("admin"); ?>">
+	            <?php echo ucfirst($this->uri->segment(1));?>
+	          </a> 
+	          <span class="divider">/</span>
+	        </li>
+	        <li>
+	          <a href="<?php echo site_url("admin").'/hdm_veiculos'; ?>">
+	            <?php echo ucfirst('HDM Veículos');?>
+	          </a>  
+	          <span class="divider">/</span>
+	        </li>
+	        <li>
+	          <a href="<?php echo site_url("admin").'/vv/lista_vv/'.$id_hdm_veiculo; ?>">
+	            Valor de Veículos
+	          </a> 
+	          <span class="divider">/</span>
+	        </li>
+	        <li class="active">
+	          Update
+	        </li>
+	      </ul>
+	      <div class="page-header">
+	        <h2>
+	          Atualizar Valor de Veículo
+	        </h2>
+	      </div>
+	     <?php
+	      //flash messages
+	      if($this->session->flashdata('flash_message')){
+	        if($this->session->flashdata('flash_message') == 'updated')
+	        {
+	          echo '<div class="alert alert-success">';
+	            echo '<a class="close" data-dismiss="alert">×</a>';
+	            echo '<strong>Well done!</strong> vv updated with success.';
+	          echo '</div>';       
+	        }else{
+	          echo '<div class="alert alert-error">';
+	            echo '<a class="close" data-dismiss="alert">×</a>';
+	            echo '<strong>Oh snap!</strong> change a few things up and try submitting again.';
+	          echo '</div>';          
+	        }
+	      }
+	      ?>
+		    <?php
+		      //form data
+		      $attributes = array("class" => "form-horizontal", "id" => "");
+    		  /*
+    		  $options_ = array();
+		      foreach ($VARIAVELFROMCONTROLLER as $row)
+		      {
+		      	$options_[$row["id"]] = $row["titulo"];
+		      }	
+    		  <?php 
+				     echo 
+				     	  '<div class="control-group">
+				            <label for="inputError" class="control-label">Classe </label>
+				            <div class="controls">';
+				              
+		    		 echo form_dropdown('id_', $options_, vv[0]['id_'] );	
+				     echo          
+				            '</div>
+				          </div>';	
+			  ?>
+    		  */
+		      //form validation
+		      echo validation_errors();
+    
+		      echo form_open("admin/vv/update/".$this->uri->segment(4)."/".$this->uri->segment(5), $attributes);
+		     ?>
+		     <fieldset><div class="control-group">
+		            <label for="inputError" class="control-label">FUC_VEH</label>
+		            <div class="controls">
+		              <input type="text" id="" name="FUC_VEH" value="<?php echo $vv[0]['FUC_VEH']; ?>" >
+		              <!--<span class="help-inline">Woohoo!</span>-->
+		            </div>
+		          </div><div class="control-group">
+		            <label for="inputError" class="control-label">EUC_VEH</label>
+		            <div class="controls">
+		              <input type="text" id="" name="EUC_VEH" value="<?php echo $vv[0]['EUC_VEH']; ?>" >
+		              <!--<span class="help-inline">Woohoo!</span>-->
+		            </div>
+		          </div>
+	          <div class="form-actions">
+	            <button class="btn btn-primary" type="submit">Salvar Modificações</button>
+	            <button class="btn" type="reset">Cancelar</button>
+	          </div>
+	        </fieldset>
+    
+	      <?php echo form_close(); ?>        </div>

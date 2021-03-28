@@ -1,0 +1,7 @@
+Veiculo;Placa;Data;Hora;Origem Pais;Origem UF;Origem Municipio;GeoCod Origem;Destino Pais;Destino UF;Destino Municipio;GeoCod Destino;Combustivel;Categoria;Numero de Pessoas;Renda Media;Motivo;Frequencia;PONTE;POSTO DESCANSO;BR 251
+C1;POI2123;31/01/2015;06:00;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17
+C2;LKJ1342;01/02/2015;07:00;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17
+C3;MNB1232;01/02/2015;08:00;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17
+C4;TYU5151;01/02/2015;09:00;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17
+O1;GHJ4545;01/02/2015;10:00;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17
+S4;GFD9009;01/02/2015;11:00;1;2;3;4;5;6;7;8;9;10;11;12;13;14;15;16;17

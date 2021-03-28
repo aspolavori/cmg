@@ -1,0 +1,536 @@
+RPEP0040
+GO - Goiás
+Código
+Pesquisa: 20/03/2014
+Equipamento Aquisição Improdutivo Operativo
+SICRO2
+(Valores em R$) Preço Unitário dos Equipamentos
+DNIT - Sistema de Custos Rodoviários
+A001 Componente para equipamento : Caterpillar : D8T - trator
+de esteiras
+1.630.000,00 14,6796 324,1874
+A002 Componente para equipamento : Caterpillar : R-8 -
+escarificador
+165.411,53 0,0000 17,0006
+A003 Componente para veículos : Mercedes Benz : ATEGO 1319
+- chassis 7,1 t (p/ caminhão)
+178.650,00 8,4155 76,1791
+A004 Componente para veículos : Mercedes Benz : ATEGO 1419
+- chassis 9,4 t (p/ caminhão)
+187.889,90 8,4155 80,3631
+A005 Componente para veículos : Mercedes Benz : ATRON 2324
+6x2 - chassis 10,5 t (p/ caminhão)
+232.070,79 8,4155 100,6010
+A007 Componente para veículos : Mercedes Benz : 815/37 -
+chassis 4,0 t (p/ caminhão)
+119.501,68 8,4155 53,2542
+A009 Componente para veículos : Mercedes Benz : ATRON 1635
+S/45 - chassis 4,0 t (p/ caminhão)
+244.650,00 11,1996 135,0464
+A010 Componente para veículos : Randon : carrega tudo -
+semi-reboque p/ cavalo mec. 35,0 t
+164.091,30 0,0000 25,4683
+A011 Componente para veículos : Rossetti : 4 m3 - caçamba
+basculante 4 m3
+25.464,10 0,0000 4,2730
+A012 Componente para veículos : Rossetti : 6 m3 - caçamba
+basculante 6 m3
+31.762,47 0,0000 5,3300
+A013 Componente para veículos : Rossetti : 10 m3 - caçamba
+basculante 10 m3
+37.120,66 0,0000 6,2292
+A014 Componente para veículos : Rossetti : 5 m3 - caçamba
+basculante
+25.044,52 0,0000 4,2027
+A015 Componente para veículos : diversos : Standart 6,0 m3 -
+caçamba térmica
+85.549,59 0,0000 14,3558
+A016 Componente para veículos : diversos : 6.000 l - tanque de
+água p/ chassis caminhão
+47.606,01 0,0000 6,9152
+A017 Componente para veículos : diversos : 10.000 l - tanque de
+água p/ chassis caminhão
+40.576,90 0,0000 5,8941
+A018 Componente para veículos : Cifali : 6.000 L / HE-C - tanque
+de asf. p/ chassis caminhão
+139.366,50 0,0000 11,9333
+A020 Componente para veículos : Mambrini : - carroc. madeira
+7,0 m - 15 t
+12.632,46 0,0000 1,8350
+A021 Componente para veículos : Mambrini : 709/37 - carroc.
+madeira 4,5 m - 4 t
+20.561,80 0,0000 2,9869
+A023 Componente para equipamento : Cifali : - usina de asfalto
+40/80 T/H fixa
+1.290.000,00 0,0000 207,2012
+A024 Componente para equipamento : diversos : - vibrador de
+imersão para concreto
+1.386,39 7,9726 8,2598
+A025 Componente para equipamento : diversos : VIP-MT2 -
+motor para acionamento de vibrador
+717,06 0,0000 0,7945
+A026 Componente para veículos : Consmaq : HS-06 - equip. p/
+hidrossemeadura
+204.200,00 0,0000 34,2661
+Página 1 Obs.: * - equipamento montado Emitido em: 22/05/2014
+RPEP0040
+GO - Goiás
+Código
+Pesquisa: 20/03/2014
+Equipamento Aquisição Improdutivo Operativo
+SICRO2
+(Valores em R$) Preço Unitário dos Equipamentos
+DNIT - Sistema de Custos Rodoviários
+A029 Componente para equipamento : Maquesonda : MACH/850
+- sonda rotativa com motor
+113.331,00 0,0000 28,4263
+A030 Componente para equipamento : Maquesonda : 361.01 nº
+0007 - tripé para sonda rotativa
+7.044,90 0,0000 1,1976
+A031 Componente para veículos : Randon : - eixo tandem
+(balancim)
+27.547,06 0,0000 4,6226
+A032 Componente para veículos : Mercedes Benz : ATRON
+2729/36 K 6x4 - chassis 15 t (p/ caminhão)
+242.562,43 8,4155 115,5291
+A033 Componente para veículos : Mercedes Benz : ATEGO
+1719/36 - chassis 17t (p/ caminhão)
+176.650,00 8,4155 70,4453
+A036 Componente para equipamento : Bhemel : P/ 3 m3 -
+campânula de ar comprimido compl.
+38.118,35 0,0000 3,8811
+A037 Componente para equipamento : Bhemel : P/ 3 m3 -
+reservatório de ar 3 m3
+21.781,91 0,0000 2,2178
+A038 Componente para equipamento : Bhemel : P/ 3m3 - câmara
+de descomp. e oxig.
+28.316,49 0,0000 2,8831
+A057 Componente para veículos : diversos : RAC 2 1700 Baldan -
+roçadeira de arrasto
+7.745,19 0,0000 1,2489
+A059 Componente para veículos : Consmaq : LA-6 - equip. p/
+lama asfaltica 6m3
+255.250,00 0,0000 40,4247
+A063 Componente para veículos : Mambrini : - carroceria de
+madeira 7 t-tipo TOCO
+22.760,90 0,0000 3,3062
+A065 Componente para veículos : Mambrini : - carroc. madeira
+5,4 m - 10 t
+27.869,20 0,0000 4,0482
+A067 Componente para equipamento : Caterpillar : 8 SU - lâmina
+p/ trator D8T
+69.257,71 0,0000 7,1182
+A070 Componente para equipamento : Servimaq : - mesa vibr.
+2x1 m com motor de 3 cv
+9.189,00 0,0000 2,2973
+A073 Componente para equipamento : Servimaq : reto - forma p/
+mourão quadrado P.V
+714,70 0,0000 0,1787
+A075 Componente para equipamento : Servimaq : - forma para
+placas pré-mold. de pav.
+892,03 0,0000 0,2230
+A083 Componente para equipamento : Servimaq : - carro p/
+transp de pré-moldado de c
+1.531,50 0,0000 0,3829
+A084 Componente para equipamento : Servimaq : - cavalete
+móvel (manual)
+4.594,50 0,0000 1,1487
+A088 Componente para equipamento : Servimaq : C/ 30 ANÉIS -
+forma para fabr. tubo vibr. D=0,20m
+9.781,18 0,0000 3,0913
+A089 Componente para equipamento : Servimaq : C/ 30 ANÉIS -
+forma para fabr. tubo vibr. D=0,30m
+11.524,03 0,0000 3,5270
+A090 Componente para equipamento : Servimaq : C/ 30 ANÉIS -
+forma para fabr. tubo vibr. D=0,40m
+12.762,50 0,0000 3,8367
+A091 Componente para equipamento : Servimaq : C/ 30 ANÉIS -
+forma para fabr. tubo vibr. D=0,60m
+16.795,00 0,0000 4,8448
+Página 2 Obs.: * - equipamento montado Emitido em: 22/05/2014
+RPEP0040
+GO - Goiás
+Código
+Pesquisa: 20/03/2014
+Equipamento Aquisição Improdutivo Operativo
+SICRO2
+(Valores em R$) Preço Unitário dos Equipamentos
+DNIT - Sistema de Custos Rodoviários
+A092 Componente para equipamento : Servimaq : C/ 20 ANÉIS -
+forma para fabr. tubo vibr. D=0,80m
+18.618,10 0,0000 5,3005
+A093 Componente para equipamento : Servimaq : C/ 15 ANÉIS -
+forma para fabr. tubo vibr. D=1,00m
+18.130,24 0,0000 5,1785
+A094 Componente para equipamento : Servimaq : C/ 10 ANÉIS -
+forma para fabr. tubo vibr. D=1,20m
+20.283,34 0,0000 5,7168
+A095 Componente para equipamento : Servimaq : C/ 5 ANÉIS -
+forma para fabr. tubo vibr. D=1,50m
+18.772,91 0,0000 5,3392
+A096 Componente para veículos : diversos : 13000 l - tanque de
+água p/ chassis
+41.042,50 0,0000 5,9617
+A097 Componente para veículos : diversos : 8000 l - tanque de
+água p/ chassis
+40.576,90 0,0000 5,8941
+A098 Componente para veículos : Volkswagen : Constellation
+26-280 6x4 - chassis p/ caminhão
+280.000,00 8,4155 121,8114
+A099 Componente para veículos : CIBI : 5m3 - betoneira 5m3 p/
+caminhão
+115.843,95 0,0000 19,4393
+A100 Componente para veículos : Volvo : FMX 6X4R - chassis p/
+caminhão 40 t
+365.650,00 8,4155 170,7630
+A101 Componente para veículos : Rossetti : 12m3/14m3 -
+caçamba basculante 14m3
+44.617,70 0,0000 7,4872
+A102 Componente para veículos : Rossetti : 12m3 - caçamba
+basculante p/ rocha
+83.609,69 0,0000 14,0303
+A103 Componente para veículos : Madal-Palfinger : PKK-12500
+AV2A - guindaste 5t
+60.851,60 0,0000 8,8393
+A105 Componente para veículos : Randon : 10m3 - caçamba
+basculante p/ rocha
+63.314,46 0,0000 10,6246
+A106 Máquina para Pintura : Elgimaq : EGM-CAF-800L - Pintura
+a frio
+445.666,50 0,0000 35,6534
+A107 Máquina para Pintura : Elgimaq : EGM-FA 1500 L - para
+demarcações com termoplasticos
+724.910,00 0,0000 57,9928
+A108 Componente para equipamento : Terex : MULTIFLEX p/
+8m3 - semi-reboque
+702.762,11 0,0000 138,9460
+A109 Componente para equipamento : Servimaq : - forma p/
+balizador
+2.578,98 0,0000 0,6447
+A110 Componente para equipamento : Servimaq : - forma p/
+guarda-corpo
+5.374,99 0,0000 1,3437
+E001 Trator de Esteiras : New Holland : 7D - com lâmina 537.786,00 14,6796 137,5486
+E002 Trator de Esteiras : Caterpillar : D6N - com lâmina 750.000,00 14,6796 194,2196
+E003 (*) Trator de Esteiras : Caterpillar : D8T - com lâmina 1.699.257,71 14,6796 331,3056
+E005 Motoscraper : Caterpillar : 621H - 2.080.998,00 14,6796 391,4900
+E006 Motoniveladora : Caterpillar : 120K - 620.000,00 14,6796 142,1963
+E007 Trator Agrícola : Massey Ferguson : MF 4291/4 449A - 127.000,00 8,2257 61,6257
+E009 Carregadeira de Pneus : Caterpillar : 924H - 1,80 m3 350.000,00 14,6796 110,6896
+Página 3 Obs.: * - equipamento montado Emitido em: 22/05/2014
+RPEP0040
+GO - Goiás
+Código
+Pesquisa: 20/03/2014
+Equipamento Aquisição Improdutivo Operativo
+SICRO2
+(Valores em R$) Preço Unitário dos Equipamentos
+DNIT - Sistema de Custos Rodoviários
+E010 Carregadeira de Pneus : Caterpillar : 950H - 3,3 m3 690.000,00 14,6796 186,8796
+E011 Retroescavadeira : Massey Ferguson : MF-86HS - de
+pneus
+254.440,81 14,6796 84,2188
+E013 Rolo Compactador : Dynapac : CA-250-P - pé de carneiro
+autop. 11,25t vibrat
+390.580,09 8,2257 109,0185
+E014 (*) Trator de Esteiras : Caterpillar : D8T - com escarificador 1.795.411,53 14,6796 341,1880
+E016 Carregadeira de Pneus : Case : W-20 E - 1,91 m3 389.041,00 14,6796 124,7898
+E062 Escavadeira Hidráulica : Caterpillar : 336DL - com esteira 890.000,00 19,6150 244,7150
+E063 Escavadeira Hidráulica : Caterpillar : 320DL - c/ est. - cap
+600l p/ longo alcance
+580.000,00 19,6150 153,7890
+E065 Draga de Sucção : diversos : - p/ extração de Areia 6" 336.675,55 0,0000 101,3514
+E066 Chata - 25m3 : diversos : - com rebocador 504.036,35 11,1996 140,1656
+E101 Grade de Discos : Marchesan : - GA 24 x 24 16.499,96 0,0000 2,5575
+E102 Rolo Compactador : Dynapac : CC-424HF - Tanden vibrat.
+autoprop. 10,2 t
+352.347,27 8,2257 102,8284
+E104 Rolo Compactador : Dynapac : CC-224HF - liso, tanden
+vibrat. autoprop. 7,7t
+307.288,03 8,2257 85,4571
+E105 Rolo Compactador : Caterpillar : PS-360 C - de pneus
+autoprop. 25 t
+439.900,00 8,2257 110,4076
+E106 Usina Misturadora : Cifali : - de solos 300 t/h 635.179,00 19,6150 92,2069
+E107 Vassoura Mecânica : CMV : VM 2440 - rebocável 31.000,00 0,0000 4,6500
+E108 Distribuidor de Agregados : CMV : - rebocável 32.988,69 0,0000 3,6947
+E109 Distribuidor de Agregados : Romanelli : DAR-5000 -
+autopropelido
+731.230,20 14,6796 146,3388
+E110 Tanque de Estocagem de Asfalto : Cifali : - 30.000 l 263.038,72 0,0000 18,4127
+E111 Equip. Distribuição de Asfalto : Ferlex : - montado em
+caminhão
+(*) 371.437,29 8,4155 112,5343
+E112 Aquecedor de Fluido Térmico : Tenge : TH III - 286.627,80 0,0000 101,6471
+E113 (*) Usina de Asfalto a Quente : Cifali : DMC-2 - 40 / 60 t/h 1.290.000,00 0,0000 207,2012
+E114 Vibro-acabadora de Asfalto : Cifali : VDA-421 - sobre pneus 707.240,00 19,6150 144,4378
+E115 Usina Misturadora : Terex : UPM F 60 - pré mist. a frio 60
+t/h
+102.458,84 19,6150 45,2135
+E116 Usina Misturadora : Cifali : - pré mist. a frio 30/60 t/h 102.458,84 19,6150 31,3245
+E117 Rolo Compactador : Muller : RT82H - estático Tanden
+autoprop. 8,9 t
+190.970,68 8,2257 53,7101
+E118 Rolo Compactador : Dynapac : CC900 - Tanden vibrat. 1,6 t 131.546,69 8,2257 37,3097
+E119 Rolo Compactador : Dynapac : CP 224 - de pneus estat.
+autoprop. 21,00 t
+366.011,74 8,2257 89,7915
+E121 Rolo Compactador : Dynapac : CA150 std - liso
+vibrat.autoprop. 7,0 t
+227.897,00 8,2257 72,6033
+E122 Equip. Distribuição Lama Asfáltica : M. Benz/Consmaq :
+2726 K - montado em caminhão
+(*) 497.812,43 8,4155 155,9538
+Página 4 Obs.: * - equipamento montado Emitido em: 22/05/2014
+RPEP0040
+GO - Goiás
+Código
+Pesquisa: 20/03/2014
+Equipamento Aquisição Improdutivo Operativo
+SICRO2
+(Valores em R$) Preço Unitário dos Equipamentos
+DNIT - Sistema de Custos Rodoviários
+E123 Caldeira de Asfalto Rebocável : ALMEIDA : CAD 1500 -
+1200 l
+58.300,00 0,0000 10,1418
+E126 Fresadora a Frio : Wirtgen : W 100 - 1.018.800,59 19,6150 384,3372
+E127 Fresadora a Frio : Wirtgen : W 200 - 2.378.147,48 19,6150 888,7792
+E129 Recicladora de Pavimento : Wirtgen : WR 2500 S - A frio 3.028.045,00 19,6150 793,6631
+E138 Estabilizador/Recicladora a Frio : Caterpillar : RM-500 - 1.847.178,00 19,6150 537,5970
+E139 Rolo Compactador : Dynapac : CA250 - liso auto. vibrat. 307.288,03 8,2257 95,5331
+E142 Rolo Compactador : Dynapac : CP274 - de pneus 439.900,00 8,2257 99,8736
+E147 Usina de Asfalto a Quente : Cifali : Cifali Magnum 120 -
+90/120 t/h com filtro de manga
+1.412.431,69 19,6150 262,0134
+E149 Vibro-acabadora de Asfalto : Terex : TEREX VDA 600 -
+sobre esteiras
+796.177,88 19,6150 159,5368
+E156 Carregadeira de Pneus : Case : SR 175 - c/ vassoura SPS
+155 DA AGF
+350.000,00 14,6796 87,7896
+E160 Fresadora e Distribuidora de solo : Gomaco : 9500 - para
+regular sub leito
+1.234.262,00 19,6150 353,9922
+E161 Equip. Distr. de L.A. Rupt. Contr. : M. Benz/Cifali :
+MICROFLEX - acoplado a cavalo mecânico
+(*) 947.412,11 11,1996 273,9924
+E201 Compressor de Ar : Atlas Copco : XAHS 157Pd - 295 PCM 109.878,00 8,2257 63,7876
+E202 Compressor de Ar : Atlas Copco : XAS 187Pd - 400 PCM 111.174,56 8,2257 69,0003
+E203 Compressor de Ar : Atlas Copco : XAS 360 CUD - 762 PCM 232.722,50 8,2257 117,6610
+E204 Martelete : Atlas Copco : RH658-6L - perfuratriz manual 10.088,19 7,9726 9,6539
+E205 Perfuratriz sobre Esteiras : Atlas Copco : ROC 442PC -
+Crawler Drill
+117.847,74 8,2257 27,8670
+E208 Compressor de Ar : Atlas Copco : XAHS 107Pd - 200 PCM 43.355,98 8,2257 41,5455
+E209 Martelete : Atlas Copco : TEX270 PS - rompedor 28 kg 8.442,84 7,9726 9,3798
+E210 Martelete : Atlas Copco : TEX32 PS - rompedor 33 kg 9.442,73 7,9726 9,5463
+E211 Máquina para Pintura : Shulz : CSL 10/100 L - compres. de
+ar p/ pintura c/ filtro
+2.900,00 0,0000 1,1018
+E223 Compressor de Ar : Atlas Copco : XATS 167Pd - 360 PCM 91.297,70 8,2257 61,7429
+E225 Conjunto de Britagem : Metso Svedala : C96/HP-200 - 80
+m3/h
+3.574.958,68 14,6796 486,8589
+E226 Conjunto de Britagem - p/ rachão : Metso Svedala : DS-96 -
+80 m3/h p/ produção de rachão
+1.134.700,00 14,6796 175,0146
+E301 Betoneira : Menegotti : - 400 l 6.100,29 8,2257 11,3872
+E302 Betoneira : Menegotti : - 400 l 3.625,49 8,2257 10,0357
+E303 Betoneira : Alfa : - 750 l 31.288,55 8,2257 15,7355
+E304 Transportador Manual : AJS : - carrinho de mão 80 l 97,08 0,0000 0,1407
+E305 Transportador Manual : AJS : A-15 - gerica 180 l 589,86 0,0000 0,8553
+E306 (*) Vibrador de Concreto : diversos : VIP-MT2 - de imersão 2.103,45 7,9726 9,0543
+E307 (*) Fábric. Pré-Moldado Concreto : Servimaq : - tubos D=0,2 15.907,18 0,0000 4,6229
+Página 5 Obs.: * - equipamento montado Emitido em: 22/05/2014
+RPEP0040
+GO - Goiás
+Código
+Pesquisa: 20/03/2014
+Equipamento Aquisição Improdutivo Operativo
+SICRO2
+(Valores em R$) Preço Unitário dos Equipamentos
+DNIT - Sistema de Custos Rodoviários
+m M / F
+E308 Fábric. Pré-Moldado Concreto : Servimaq : - tubos D=0,3
+m M / F
+(*) 17.650,03 0,0000 5,0586
+E309 Fábric. Pré-Moldado Concreto : Servimaq : - tubos D=0,4
+m M / F
+(*) 18.888,50 0,0000 5,3683
+E310 Fábric. Pré-Moldado Concreto : Servimaq : - tubos D=0,6
+m M / F
+(*) 22.921,00 0,0000 6,3764
+E311 Fábric. Pré-Moldado Concreto : Servimaq : - tubos D=0,8
+m M / F
+(*) 24.744,10 0,0000 6,8321
+E312 Fábric. Pré-Moldado Concreto : Servimaq : - tubos D=1,0
+m M / F
+(*) 24.256,24 0,0000 6,7101
+E313 Fábric. Pré-Moldado Concreto : Servimaq : - tubos D=1,2
+m M / F
+(*) 26.409,34 0,0000 7,2484
+E314 Fábric. Pré-Moldado Concreto : Servimaq : - tubos D=1,5
+m M / F
+(*) 24.898,91 0,0000 6,8708
+E316 Fábric. Pré-Moldado Concreto : Servimaq : - inst. compl. -
+mourão
+(*) 9.903,70 0,0000 2,4760
+E317 Fábric. Pré-Moldado Concreto : Servimaq : - inst. compl. -
+balizador
+(*) 11.767,98 0,0000 2,9420
+E318 Fábric. Pré-Moldado Concreto : Servimaq : - inst. compl. -
+guarda-corpo
+(*) 14.563,99 0,0000 3,6410
+E330 Espalhadora de concreto : Gomaco : PS 2600 - 1.154.037,13 19,6150 283,0369
+E331 Acabadora de concreto : Gomaco : GP-2600 - com forma
+deslizante
+1.756.542,48 19,6150 394,5518
+E332 Texturizadora e Lançadora : Gomaco : TC 400 - sem
+estação meteorológica
+431.435,29 8,2257 103,3614
+E333 Serra de Disco Diamantado : Norton : C13-E - para
+concreto
+7.365,00 7,9726 23,6951
+E334 Seladora de Juntas : Crafco : EZ Serie ll 500 - 82.476,06 7,9726 27,2287
+E335 Central de Concreto : CIBI : UNI-5 - 180m3 / h - dosadora e
+misturadora.
+3.489.417,68 19,6150 440,0796
+E336 Serra de Disco Diamantado : CSM - Maq. e Equip. para
+Construção : SP-8 (gasolina) - serra para cortar piso/asfalto
+11.298,80 0,0000 5,4438
+E337 Régua vibratória : Weber : RV 4 - 4,25m 2.835,00 7,9726 10,8644
+E338 Serra de Juntas : Clipper : DRW Clipper C 13 E - para
+concreto
+7.365,00 7,9726 18,2411
+E339 Fábric. Pré-Moldado Concreto : Servimaq : - placas p/
+pavimento
+(*) 16.207,03 0,0000 4,0519
+E340 Jateadora de Areia : Anco : Anco Blast CSS270 -
+pressurizado
+10.475,25 7,9726 11,2025
+E343 Betoneira : Menegotti : CSN CS - 600 l 9.970,53 8,2257 18,7400
+E400 Caminhão Basculante : Mercedes Benz : ATEGO 1518/36 -
+5 m3 - 8,8 t
+(*) 201.694,52 8,4155 74,6480
+Página 6 Obs.: * - equipamento montado Emitido em: 22/05/2014
+RPEP0040
+GO - Goiás
+Código
+Pesquisa: 20/03/2014
+Equipamento Aquisição Improdutivo Operativo
+SICRO2
+(Valores em R$) Preço Unitário dos Equipamentos
+DNIT - Sistema de Custos Rodoviários
+E401 Caminhão Carroceria : M. Benz / Rodoeixo : Standart p/ 5,50
+m3 - caminhão c/ caçamba termica
+(*) 262.199,59 8,4155 84,8011
+E402 Caminhão Carroceria : Mercedes Benz : 2726 K - de
+madeira 15 t
+(*) 255.194,89 8,4155 117,3641
+E403 Caminhão Basculante : Mercedes Benz : LK 1620 - 6 m3 -
+10,5 t
+(*) 263.833,26 8,4155 105,9310
+E404 Caminhão Basculante : Mercedes Benz : 2726 K - 10 m3 -
+15 t
+(*) 279.683,09 8,4155 121,7583
+E405 Caminhão Basculante : Mercedes Benz : 2726 K - p/ rocha
+8 m3 - 13 t
+(*) 305.876,89 8,4155 126,1537
+E406 Caminhão Tanque : Mercedes Benz : ATEGO 1418/42 -
+6.000 l
+(*) 235.495,91 8,4155 87,2783
+E407 (*) Caminhão Tanque : Mercedes Benz : 2726 K - 10.000 l 283.139,33 8,4155 121,4232
+E408 (*) Caminhão Carroceria : Mercedes Benz : 710 / 37 - 4 t 140.063,48 8,4155 56,2411
+E409 Caminhão Carroceria : Mercedes Benz : ATEGO 1418/42 -
+fixa 9 t
+(*) 215.759,10 8,4155 84,4113
+E410 Caminhão Basculante : Mercedes Benz : 1215 C - 4 m3 -
+7,1 t
+(*) 204.114,10 8,4155 80,4521
+E411 Cavalo Mecânico com Reboque : M. Benz/Randon :
+LS-1634/45 - 29,5 t
+(*) 408.741,30 11,1996 160,5147
+E412 Veículo Leve : Volkswagen : GOL 1000 - automóvel até 100
+hp
+29.956,00 7,9726 46,5811
+E416 Veículo Leve : Chevrolet : S10 - pick up (4X4) 65.991,57 7,9726 54,1912
+E421 (*) Caminhão Tanque : Mercedes Benz : 2726 K - 13.000 l 283.604,93 8,4155 121,4908
+E422 (*) Caminhão Tanque : Mercedes Benz : L1620/51 - 8.000 l 228.466,80 8,4155 86,2572
+E427 Caminhão Betoneira : Volkswagen : Constellation 26-260 -
+11,5 t 5m3
+(*) 395.843,95 8,4155 141,2507
+E432 (*) Caminhão Basculante : Volvo : FMX 6X4R - 40 t 410.267,70 8,4155 178,2502
+E433 Caminhão Basculante : Mercedes Benz : 2726 - para rocha
+18 t
+(*) 449.259,69 8,4155 184,7933
+E434 Caminhão Carroceria : Mercedes Benz : L 1620/51 - c/
+guindauto 6 t x m
+(*) 260.262,50 8,4155 82,5908
+E501 Grupo Gerador : Heimer : GEHM-40 - 36/40 KVA 36.239,65 8,2257 27,8419
+E502 Grupo Gerador : Heimer : GEHM-150 - 136 / 150 KVA 72.479,29 8,2257 75,6707
+E503 Grupo Gerador : Heimer : GEHM-180 - 164 / 180 KVA 90.599,12 8,2257 90,2421
+E504 Grupo Gerador : Heimer : GEHMB-360 - 288 KVA 115.932,00 8,2257 133,9048
+E505 Grupo Gerador : Heimer : GEHB-17 KVA - 17,0 / 15,5 KVA 31.407,69 8,2257 18,1243
+E507 Grupo Gerador : Heimer : GEHP-110 - 100 / 110 KVA 44.470,00 8,2257 56,8483
+E508 Grupo Gerador : Pramac : BL 6500 E - Manual/eletrico 3.214,11 8,2257 15,4056
+E509 Grupo Gerador : Heimer : GEHMI-40 - 32,0 KVA 36.239,65 8,2257 25,4603
+E601 Roçadeira : M. Ferguson / Marchesan : RAC 2 1700 Baldan
+- em trator de pneus
+(*) 134.745,19 8,2257 62,8746
+Página 7 Obs.: * - equipamento montado Emitido em: 22/05/2014
+RPEP0040
+GO - Goiás
+Código
+Pesquisa: 20/03/2014
+Equipamento Aquisição Improdutivo Operativo
+SICRO2
+(Valores em R$) Preço Unitário dos Equipamentos
+DNIT - Sistema de Custos Rodoviários
+E602 Roçadeira : Yanmar : XTA-TC145 - em micro trator 18.950,14 8,2257 17,8591
+E901 (*) Campânula de Ar Comprimido : Bhemel : - 3 m3 88.216,75 0,0000 8,9820
+E903 Bate-Estacas : Magam : IM -1450 PM/E - de gravidade p/
+3.500 a 4000 kg
+355.047,87 8,2257 127,8890
+E904 Máquina de Bancada : Maksiwa : SCMA - serra circular de
+12"
+4.442,35 0,0000 1,6946
+E905 Máquina Manual : Tirfor : TU-L 30 - talha guincho para 3 t 2.728,91 0,0000 0,2877
+E906 Compactador Manual : Wacker : ES 60 - soquete vibratório 17.360,14 7,9726 11,9942
+E907 Conjunto Moto-Bomba : Hero : 180-SH-75 - com motor 38.400,00 0,0000 15,5670
+E908 (*) Máquina para Pintura : Consmaq : - Pintura a frio 622.316,50 8,4155 106,0987
+E909 Equip. para Hidrosemeadura : M. Benz/Consmaq : 1420 -
+5500 l
+(*) 380.850,00 8,4155 104,7114
+E911 Tripé-Sonda : Maquesonda : MACH 850 - Tripé-Sonda com
+motor
+(*) 120.375,90 0,0000 29,6239
+E912 Máquina Manual : Bosch : GBS 20-2 - furadeira elétrica de
+Impacto
+668,00 0,0000 0,4199
+E914 Compactador Manual : Wacker : VP-2050 Y - placa
+vibratória c/ motor
+9.291,92 7,9726 10,6939
+E916 Máquina Manual : Stihl : MS-381 - moto serra nº 8 2.335,77 7,9726 15,2096
+E917 Máquina de Bancada : Franho : - C-6A universal de corte p/
+chapa
+28.000,00 7,9726 12,1646
+E918 Máquina de Bancada : Harlo : VF-8 - prensa excêntrica 52.488,00 0,0000 5,3844
+E919 Máquina de Bancada : Cor Dob Ind. e Com. de Máquinas :
+GHP 2.5X2030mm - guilhotina
+47.837,61 0,0000 6,2466
+E920 Máquina para Pintura : Elgimaq : com aspersão/extrusão -
+para aplicação de termoplastico
+(*) 901.560,00 8,4155 128,4381
+E922 Martelete : Bosch : GBH 5-40 DCE - perfurador/ rompedor
+elétrico
+3.199,00 7,9726 8,8165
+E923 Máquina Manual : Bosch : GWS 22U 7" - lixadeira eletrica
+angular
+765,24 0,0000 0,8710
+E924 Equip. para Solda : Max Bantam : Bantam 250 Serralheiro -
+transformador solda elétr. 250 amp
+333,90 0,0000 2,6946
+E925 Aplicador de Material Termoplástico : Elgimaq : - Kit para
+aplicação em alto relevo
+152.265,12 0,0000 22,3890
+Página 8 Obs.: * - equipamento montado Emitido em: 22/05/2014

@@ -1,0 +1,63 @@
+E001;Trator de Esteiras - com lâmina (67 kW);146.796;1.375.486
+E002;Trator de Esteiras - com lâmina (108 kW);146.796;1.942.196
+E006;Motoniveladora - (103 kW);146.796;1.421.963
+E007;Trator Agrícola - (74 kW);82.257;616.257
+E009;Carregadeira de Pneus - 1,80 m3 (96 kW);146.796;1.106.896
+E010;Carregadeira de Pneus - 3,3 m3 (147 kW);146.796;1.868.796
+E013;Rolo Compactador -pé de carneiro autop.11,25t vibrat (82 kw);146.796;1.090.185
+E016;Carregadeira de Pneus - 191 m3 (113 kW);146.796;1.247.898
+E101;Grade de Discos - GA 24 x 24;0;25.575
+E102;Rolo Compactador - Tanden vibrat. autoprop. 10,2 t (82kw);82.257;1.028.284
+E105;Rolo Compactador - de pneus autoprop. 25 t (98 kW);82.257;1.104.076
+E106;Usina Misturadora - de solos 300 t/h (99 kW);19.615;922.069
+E107;Vassoura Mecânica - rebocável;0;4.65
+E108;Distribuidor de Agregados - rebocável;0;36.947
+E109;Distribuidor de Agregados - autopropelido (103 kW);146.796;1.463.388
+E110;Tanque de Estocagem de Asfalto - 30.000 l;0;184.127
+E111;Equip. Distribuição de Asfalto - montado em caminhão (175kw);84.155;1.125.343
+E112;Aquecedor de Fluido Térmico - (12 kW);0;1.016.471
+E115;Usina Misturadora - pré mist.a frio 60/100 t/h (43 kw);19.615;452.135
+E119;Rolo Compactador - de pneus estat. autoprop. 21,00 t (74kw);82.257;897.915
+E122;Equip.Distrib. Lama Asfáltica - montado em caminhão(210kw);84.155;1.559.538
+E127;Fresadora a Frio - (410 kW);19.615;8.887.792
+E138;Estabilizador/Recicladora a Frio - (403 kW);19.615;537.597
+E147;Usina de Asfalto a Quente - 90/120 t/h c/ filtro de manga(188kw);19.615;2.620.134
+E149;Vibro-acabadora de Asfalto - sobre esteiras (82 kW);19.615;1.595.368
+E156;Carregadeira de Pneus - c/ vassoura SPS 155 DA AGF;19.615;877.896
+E160;Fresadora e Distribuidora de solo - para regular sub leito(243kw);19.615;3.539.922
+E161;Equip.Distr.de L.A. Rupt.Contr.-acoplado cavalo mecânico(257kw);111.996;2.739.924
+E208;Compressor de Ar -200 PCM (56KW);110.402;415.455
+E209;Martelete - rompedor 28 kg;79.726;93.798
+E302;Betoneira - 400 l (4 kW);82.257;100.357
+E301;Betoneira - 400 l (7 kW);82.257;113.872
+E303;Betoneira - 750 l (9 kW);82.257;157.355
+E304;Transportador Manual - carrinho de mão 80 l;0;0.1407
+E306;Vibrador de Concreto - de imersão (2 kW);79.726;90.543
+E307;Fábric. Pré-Moldado Concreto - tubos D=0,2 m M / F (2kw);0;46.229
+E316;Fábric. Pré-Moldado Concreto - inst. compl. - mourão (2kw);0;2.476
+E330;Espalhadora de concreto - (172 kW);19.615;2.830.369
+E331;Acabadora de concreto - com forma deslizante (205 kW);19.615;3.945.518
+E332;Texturizadora e Lançadora -c/estação meteorológica(57KW);82.257;1.033.614
+E333;Serra de Disco Diamantado - para concreto (10 kW);79.726;236.951
+E334;Seladora de Juntas - (6 kW);79.726;272.287
+E335;Central de Concreto - 180m3 / h-dosadora e misturadora(149 kW).;19.615;4.400.796
+E337;Régua vibratória - 4,25m (1 kW);79.726;108.644
+E340;Jateadora de Areia - pressurizado;79.726;112.025
+E343;Betoneira - 600 l (10 kW);82.257;18.74
+E400;Caminhão Basculante - 5 m3 - 8,8 t (136 kW);84.155;74.648
+E402;Caminhão Carroceria - de madeira 15 t (210 kW);122.388;1.173.641
+E404;Caminhão Basculante - 10 m3 - 15 t (210 kW);122.388;1.217.583
+E406;Caminhão Tanque - 6.000 l (136 kW);84.155;872.783
+E407;Caminhão Tanque - 10.000 l (135 kW);84.155;1.214.232
+E408;Caminhão Carroceria - 4 t (115 kW);84.155;562.411
+E409;Caminhão Carroceria - fixa 9 t (136 kW);84.155;844.113
+E422;Caminhão Tanque - 8.000 l (136 kW);84.155;862.572
+E427;Caminhão Betoneira - 11,5 t 5m3 (205 kW);84.155;1.412.507
+E501;Grupo Gerador - 36/40 KVA (32 kW);82.257;278.419
+E503;Grupo Gerador - 164 / 180 KVA (144 kW);82.257;902.421
+E504;Grupo Gerador - 288 KVA (230 kW);82.257;1.339.048
+E507;Grupo Gerador - 100/110 KVA (88 kW);82.257;568.483
+E509;Grupo Gerador - 32,0 KVA (29 kW);82.257;254.603
+E914;Compactador Manual - placa vibratória c/ motor (3 kW);79.726;106.939
+E904;"Máquina de Bancada - serra circular de 12"" (4 kW)";0;16.946
+E906;Compactador Manual - soquete vibratório (2 kW);79.726;119.942

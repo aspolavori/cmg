@@ -1,0 +1,22 @@
+RewriteEngine on
+RewriteCond $1 !^(index\.php|images|robots\.txt|css|fonts|js|pdf|assets)
+RewriteRule ^(.*)$ index.php?/$1 [L]
+RewriteCond %{REQUEST_URI} ^/system.*
+
+
+<IfModule mod_expires.c>
+	<FilesMatch "\.(ico|jpg|jpeg|png|gif|css|js|pdf|assets)$">
+		ExpiresActive On
+		ExpiresDefault "access plus 1 days"
+	</FilesMatch>
+</IfModule>
+
+
+RewriteEngine On
+
+
+#RewriteCond %{REQUEST_URI} ^/system.*
+#RewriteRule ^(.*)$ index.php?/$1 [L]
+#RewriteCond %{REQUEST_FILENAME} !-f
+#RewriteCond %{REQUEST_FILENAME} !-d
+#RewriteRule ^(.+)$ index.php?/$1 [L]

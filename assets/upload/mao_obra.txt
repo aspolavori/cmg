@@ -1,0 +1,36 @@
+RPEP0060
+GO - Goiás
+Código
+Pesquisa: 20/03/2014
+Denominação
+SICRO2
+Custo Unitário da Mão-de-Obra
+Valor Mensal Encargos Custo Horário
+(Valores em R$)
+DNIT - Sistema de Custos Rodoviários
+T000 Salário Mínimo 724,00 885,52 7,3160
+T301 Motorista de veículo leve 912,24 841,72 7,9726
+T302 Motorista de caminhão 962,92 888,48 8,4155
+T303 Motorista de veículo especial 1.281,48 1.182,42 11,1996
+T311 Operador de equipamento leve 1 912,24 841,72 7,9726
+T312 Operador de equipamento leve 2 941,20 868,44 8,2257
+T313 Operador de equip. pesado 1.679,68 1.549,84 14,6796
+T314 Operador de equip. especial 2.244,40 2.070,90 19,6150
+T401 Pré-marcador 897,76 828,36 7,8460
+T501 Encarregado de turma 2.244,40 2.070,90 19,6150
+T511 Encarreg. de pavimentação 2.881,52 2.658,77 25,1832
+T512 Encarregado de britagem 2.881,52 2.658,77 25,1832
+T601 Blaster 2.244,40 2.070,90 19,6150
+T602 Montador 897,76 828,36 7,8460
+T603 Carpinteiro 897,76 828,36 7,8460
+T604 Pedreiro 897,76 828,36 7,8460
+T605 Armador 897,76 828,36 7,8460
+T606 Ferreiro 897,76 828,36 7,8460
+T607 Pintor 897,76 828,36 7,8460
+T608 Soldador 897,76 828,36 7,8460
+T609 Jardineiro 897,76 828,36 7,8460
+T610 Serralheiro 897,76 828,36 7,8460
+T701 Servente 709,52 654,67 6,2009
+T702 Ajudante 724,00 668,03 6,3274
+T801 Perfurador de tubulão 897,76 828,36 7,8460
+Página 1 Emitido em: 22/05/2014
